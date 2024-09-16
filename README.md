@@ -1,61 +1,19 @@
-# "Isochrone"
+# Scénariser
 
 
+## Idée
+
+### Communiquer une idée
+### Objectifs
+### Motivations
 
 
+## Scénario
 
-## Qui?
-
-
-
-### Manuel Chantre
-
-
-
-### Équipe
+### Scénario cinématographique
+### Scénario interactif
+### La trame narrative
+### Expérience Utilisateur (UX)
 
 
-
-
-
-## Quand?
-
-
-
-
-## Où?
-
-
-
-
-## Quoi?
-
-
-
-### Objectifs de l'œuvre :
-
-
-
-### Public ciblé :
-
-
-### Aspects techniques :
-
-
-### Processus de création :
-
-
-
-## Comment?
-
-
-### Composante centrale :
-
-
-### Fonctionnement :
-
-
-### Impact :
-
-
-## Appréciation et commentaire personnel
+##Ambiances
