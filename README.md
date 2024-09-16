@@ -9,7 +9,9 @@ Mon projet est une installation interactive où les utilisateurs font partie de 
 
 ### Objectifs
 Objectif : Créer une expérience combinant art et interactivité, encourageant les gens à bouger et à explorer le lien entre leurs actions et le retour visuel.
+
 Message/Émotion : L'idée est de transmettre un sentiment de contrôle, de curiosité et de connexion personnelle avec l'art numérique. Plus ils se déplacent vite, plus les images deviennent dynamiques et colorées.
+
 ### Motivations
 
 
