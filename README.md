@@ -28,7 +28,4 @@ J’ai toujours été fasciné par la façon dont la technologie nous permet de 
 ## Technologies
 
 
-## Outils
 
-### Mermaid
-### Draw.io
