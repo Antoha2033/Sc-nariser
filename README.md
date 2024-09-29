@@ -5,7 +5,7 @@
 
 
 ### Communiquer une idée
-L'idée de l'œuvre est de recréer une interaction apaisante avec l'eau en utilisant la technologie de projection et le lidar. L'image projetée montre une surface d'eau calme. Quand une personne approche et touche le mur, cela génère des ondulations comme si l'eau réagissait à un objet physique.
+L'idée est de créer une œuvre interactive qui combine des éléments visuels et sonores, projetée sur un mur à l'aide de projecteurs. La surface d'eau projetée est calme, mais lorsqu'une personne approche et touche le mur, des ondulations apparaissent à l'endroit du contact, comme si un objet physique frappait l'eau. En plus de cela, l'interaction modifie également le paysage sonore : une musique douce et à peine audible est jouée en continu, mais lors de l'interaction, des sons d'eau deviennent audibles.
 
 ### Objectifs
 Créer une œuvre interactive qui donne aux spectateurs une expérience immersive, leur permettant d'interagir physiquement avec une représentation virtuelle.
@@ -17,6 +17,19 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 
 
 ## Scénario
+
+### La trame narrative:
+
+"L'eau paisible projetée représente la nature dans son état intact. Lorsque quelqu'un approche et touche le mur, l'eau est perturbée par des ondulations visuelles et des sons d'éclaboussures, créant une narration subtile sur l'impact de l'humain sur son environnement."
+
+### Expérience Utilisateur (UX):
+
+"L'expérience est sensorielle : les utilisateurs déclenchent des ondulations visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre."
+
+### Exemples:
+
+
+
 
 ### Scénario cinématographique
 ### Scénario interactif
