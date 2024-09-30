@@ -68,3 +68,8 @@ Les projecteurs afficheront une surface d'eau sur un mur blanc, et un scanner li
 
 Les technologies utilisées incluent : des capteurs lidar pour la détection des mouvements, des logiciels de projection, TouchDesigner pour la création d'effets visuels et sonores, et un système de diffusion sonore pour gérer les sons réactifs à l'interaction.
 
+  <tr>
+    <td><img src="images for water/7.jpg" alt="Image 5" ></td>
+    <td><img src="images for water/8.jpg" alt="Image 6" ></td>
+  </tr>
+
