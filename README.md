@@ -26,7 +26,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des ondulations vi
 
 ### Exemples:
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/535573224?h=816664253b" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+<iframe title="vimeo-player" src="[https://player.vimeo.com/video/535573224?h=816664253b](https://www.youtube.com/watch?v=SbYtIiZdrew)" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 
 ## Ambiances
