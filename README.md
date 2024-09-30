@@ -24,6 +24,13 @@ L'eau paisible projetée représente la nature dans son état intact. Lorsque qu
 
 L'expérience est sensorielle : les utilisateurs déclenchent des ondulations visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
 
+<table>
+  <tr>
+    <td><img src="Images/id.png" alt="id" width=600 height=600></td>
+  </tr>
+  
+</table>
+
 ### Exemples:
 
 <table>
