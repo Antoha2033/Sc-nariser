@@ -26,7 +26,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des ondulations vi
 
 <table>
   <tr>
-    <td><img src="Images/id.png" alt="id" width=600 height=600></td>
+    <td><img src="images for water/index.png" alt="Image 1" ></td>
   </tr>
   
 </table>
