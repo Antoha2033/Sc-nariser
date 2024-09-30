@@ -26,6 +26,23 @@ L'expérience est sensorielle : les utilisateurs déclenchent des ondulations vi
 
 ### Exemples:
 
+<table>
+  <tr>
+    <td><img src="Images/1.jpg" alt="Image 1" ></td>
+    <td><img src="Images/2.jpg" alt="Image 2" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="Images/3.jpg" alt="Image 3" ></td>
+    <td><img src="Images/4.jpg" alt="Image 4" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="Images/5.jpg" alt="Image 5" ></td>
+    <td><img src="Images/6.jpg" alt="Image 6" ></td>
+  </tr>
+</table>
+
 https://iregular.io/fr/work/voix-interieures-beta/
 
 <iframe title="vimeo-player" src="[https://player.vimeo.com/video/535573224?h=816664253b](https://www.youtube.com/watch?v=SbYtIiZdrew)" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
